@@ -19,7 +19,7 @@
 
 | **Frontend** | **Backend** | **Database** | **Tools** |
 | :----------- | :--------- | :----------- | :-------- |
-| 🎨 **JSP (Java Server Pages)** | ☕ **Spring MVC (Java)** | 🗄 **MySQL** | 🛠 IntelliJ IDEA · GitHub · Postman |
+| 🎨 **JSP (Java Server Pages)** | ☕ **Spring MVC (Java)** | 🗄 **MySQL** | 🛠 Eclipse · GitHub · Postman |
 
 ---
 
