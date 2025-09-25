@@ -91,5 +91,5 @@ Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for detai
 ## 📬 Contact  
 
 👤 **Chanakan Kongyen**  
-[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:Chonakankongyen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chanakan060703)
+* **Email:** Chonakankongyen@gmail.com
+* **GitHub:** [github.com/Chanakan060703](https://github.com/Chanakan060703)
