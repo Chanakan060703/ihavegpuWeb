@@ -1,66 +1,95 @@
-# IhaveGPU
+# 💻 IhaveGPU – Hardware Marketplace  
 
-## Description
-IhaveGPU is a simple to-do list application built as a full-stack project. It allows users to create, read, update, and delete tasks. The application is designed to be user-friendly and responsive, making task management easy and efficient.
+> A **web platform** for buying, selling, and renting computer hardware, software, and accessories.  
+> Built as a **full-stack web application** using **Java · Spring MVC · JSP · MySQL** 🚀  
 
-## Key Features
-- Add and delete tasks.
-- Mark tasks as completed.
-- Filter tasks by status (all, active, completed).
-- Responsive design for seamless use across devices.
+---
 
-## Technology Stack
-- **Front-end:** React, JavaScript, CSS
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
+## ✨ Key Features  
 
-## How to Run
+- 🛒 **Product Listings** – Browse hardware/software with details  
+- 🔎 **Search & Filter** – Find products easily  
+- 👤 **User Management** – Sign up, log in, and manage profiles  
+- 🛍 **Order Management** – Place, view, and track orders  
+- 🔐 **Role-Based Access** – Admin & user dashboards  
 
-### Prerequisites
-Ensure you have the following installed on your system:
-- Node.js
-- npm (Node Package Manager)
-- A running MongoDB instance
+---
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [your-repo-url]
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd [project-folder]
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+## 🛠 Technology Stack  
 
-### Running the Server
-1. Start the server:
-   ```bash
-   npm start
-   ```
+| **Frontend** | **Backend** | **Database** | **Tools** |
+| :----------- | :--------- | :----------- | :-------- |
+| 🎨 **JSP (Java Server Pages)** | ☕ **Spring MVC (Java)** | 🗄 **MySQL** | 🛠 IntelliJ IDEA · GitHub · Postman |
 
-### Running the Client
-1. Navigate to the client folder:
-   ```bash
-   cd client
-   ```
-2. Start the client:
-   ```bash
-   npm start
-   ```
+---
 
-## How to Use
-1. Open the application in your browser.
-2. Add tasks using the input field and "Add" button.
-3. Mark tasks as completed by clicking the checkbox next to each task.
-4. Delete tasks using the delete button.
-5. Use the filter options to view all tasks, active tasks, or completed tasks.
+## 🚀 Getting Started  
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+### ✅ Prerequisites  
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Ensure you have installed:  
+- [Java JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)  
+- [MySQL Server](https://dev.mysql.com/downloads/)  
+- [Maven](https://maven.apache.org/)  
+
+---
+
+### 🔧 Backend Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/Chanakan060703/ihavegpuWeb
+cd ihavegpuWeb
+
+# Configure application.properties with your MySQL credentials
+# Run the Spring Boot application
+./mvnw spring-boot:run
+```
+
+---
+
+## 📱 How It Works  
+
+1️⃣ **Sign Up / Log In** – Create an account & log in securely  
+2️⃣ **Browse Products** – Search & filter computer hardware/software  
+3️⃣ **Add to Cart & Order** – Place an order easily  
+4️⃣ **Track Status** – Monitor order status from dashboard  
+
+---
+
+## 📂 Project Structure  
+
+```
+ihavegpuWeb/
+├── src/main/java/       # Java source code (controllers, models, services)
+├── src/main/webapp/     # JSP files (frontend views)
+├── src/main/resources/  # Config files (application.properties)
+└── pom.xml              # Maven dependencies
+```
+
+---
+
+## 🔗 Repository  
+
+[![View Project Code](https://img.shields.io/badge/💻_View_Project_Code-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanakan060703/ihavegpuWeb)
+
+---
+
+## 🤝 Contributing  
+
+Contributions are welcome!  
+Fork the repo, create a feature branch, and submit a pull request.  
+
+---
+
+## 📜 License  
+
+Licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 📬 Contact  
+
+👤 **Chanakan Kongyen**  
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:Chonakankongyen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Chanakan060703)
